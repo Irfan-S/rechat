@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "274872998586",
+    "project_id": "rechat-f121a",
+    "storage_bucket": "rechat-f121a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274872998586:android:372fa66c09d78fd6848083",
+        "android_client_info": {
+          "package_name": "com.plic.rechat.rechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274872998586-605cjf5bduikqn5mln0iifad94uhutkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plic.rechat.rechat",
+            "certificate_hash": "3c242d3b606c17c334f3c1e51853897e519083a2"
+          }
+        },
+        {
+          "client_id": "274872998586-gmnc633hjcp42joqo2hf9ce6l3hg1b3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6noI34wt-64dY20WCa5WXhjrrLfTS9S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274872998586-03lagm9pt9lcdf6m957vr9p5ehe8jkss.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "274872998586-5qjb9qd1gf3vrnbmufkr2chh6puk7s07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plic.rechat.rechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
